@@ -13,4 +13,3 @@ public static void main(String[] args){
 	divisible(54);
 	}
 }
-
