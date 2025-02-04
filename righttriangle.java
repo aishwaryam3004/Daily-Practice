@@ -13,7 +13,6 @@ public class righttriangle {
             }
             System.out.println();  // Move to the next line after printing all stars in this row
         }
-
         scanner.close();  // Close the scanner
     }
 }
