@@ -6,7 +6,7 @@ public class righttriangle {
         int N = scanner.nextInt();  // Read the number of rows
 
         // Outer loop to iterate through each row
-        for (int i = 1; i <= N; i++) {
+        for (int i = 1; i <= N; i++) { //
             // Inner loop to print stars in each row
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");  // Print star on the same line
